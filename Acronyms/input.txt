@@ -1,0 +1,21 @@
+JSON Javascript object notation
+ACK Acknowledge
+HTTPS HyperText Transfer Protocol Secure
+HTTP HyperText Transfer Protocol
+FTP	File Transfer Protocol
+ADSL Asymmetric digital subscriber line
+PaaS Platform as a service
+POP3 Post Office Protocol, version 3
+RAM	Random Access Memory
+SaaS Software as a service
+IaaS Infrastructure as a service
+WWW	World Wide Web
+VLAN Virtual local area network
+TCP Transmission Control Protocol
+UDP User Datagram Protocol
+URL Uniform Resource Locator
+ROM Read Only Memory
+SDLC Software Development Life Cycle
+IP Internet Protocol
+Mbps Megabits per second
+ACL Access Control List
